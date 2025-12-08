@@ -1,5 +1,7 @@
 # PyTorch for Deep Learning - Coursera Solutions
 
+[![Certificate](certificate.jpg)](https://coursera.org/share/8efb9edb1892bcb45b79e09b3c63e31c)
+
 This repository contains my personal solutions to the programming assignments for the **[Deep Learning with PyTorch Professional Certificate](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning)** on Coursera.
 
 All notebooks are organized by course module and are intended for reference.
