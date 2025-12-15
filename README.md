@@ -6,8 +6,10 @@ This repository contains my personal solutions to the programming assignments fo
 
 All notebooks are organized by course module and are intended for reference.
 
-## Coming Soon: Course Notes
-I am currently finalizing my personal study notes and summaries for this certification. I will upload them here shortly to serve as a quick revision guide for the key deep learning concepts covered in the curriculum.
+## 📝 Course Notes & Summary
+I have compiled detailed notes during the course which act as a summary of the key concepts. You can access and view them via the link below:
+
+👉 **[View My Personal Course Notes (PDF)](https://drive.google.com/file/d/1BNGcoPmWCwmjhSKXBNkMi8sMAqUKhDT4/view?usp=sharing)**
 
 ---
 *Disclaimer: These solutions are for educational purposes. Please try to solve the assignments yourself before checking the code.*
